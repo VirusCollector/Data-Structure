@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Zyf11\source\repos\Airline\main.cpp(100,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Zyf11\source\repos\Airline\main.cpp(178,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Zyf11\source\repos\Airline\main.cpp(197,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 884 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Airline.vcxproj -> C:\Users\Zyf11\source\repos\Airline\x64\Release\Airline.exe

@@ -1,0 +1,11 @@
+debug/expression.o
+debug/main.o
+debug/mainwindow.o
+debug/matrix.o
+debug/mylist.o
+debug/mystack.o
+debug/polynomial.o
+debug/qrc_picture.o
+debug/moc_mainwindow.o
+debug/moc_matrix.o
+debug/moc_polynomial.o

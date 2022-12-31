@@ -1,0 +1,11 @@
+release/expression.o
+release/main.o
+release/mainwindow.o
+release/matrix.o
+release/mylist.o
+release/mystack.o
+release/polynomial.o
+release/qrc_picture.o
+release/moc_mainwindow.o
+release/moc_matrix.o
+release/moc_polynomial.o
